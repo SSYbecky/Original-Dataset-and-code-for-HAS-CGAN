@@ -22,7 +22,8 @@ HAS_CGAN.py: Use it to train the HAs-CGAN model.
 ACGAN.py: Use it to train the ACGAN model.
 CGAN.py: Use it to train the CGAN model.
 Conv-CGAN.py: Use it to train the Conv-CGAN model.
-
+WCConvGAN.py: Use it to train the One-Dimensional Conditional Wasserstein Generative Adversarial Network.
+WCGAN.py: Use it to train the Deep Multi-Layer Perceptron Conditional Wasserstein GAN. 
 # PREDICTIVE MODEL TRAINING
 SVR+LSTM+RF.py: This .py contains three different prediction models, which are SVR, LSTM and RF resepectively. 
 BPNN.py: Use this .py to train the bpnn prediction model.
