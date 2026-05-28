@@ -2,7 +2,7 @@
 This repository includes files related original dataset, intermediate data, code, and results(well-trained models and some predicted results).
 The original dataset file consists of cutting force signals and machining parameters and real measured surface roughness.
 The code consists of generative models and predictive models and some other related .py files.
-The results file consists of some results generated from data preprocessing processes, saved trained CGAN models for inference and predictive results generated from prediction models. 
+The results file consists of some results generated from data preprocessing processes, saved trained CGAN models for inference and predictive results generated from prediction models.
 
 # ORIGINAL and INTERMEDIATE DATA FILES
 "After cutting files" : Original dataset extracted from Dynaware.
